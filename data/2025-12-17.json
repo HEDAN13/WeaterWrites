@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "sensor": "DHT22",
+    "interval_minutes": 5,
+    "date": "2025-12-17"
+  },
+  "data": []
+}
